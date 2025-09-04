@@ -1,8 +1,8 @@
-# ☕ Coffee Haven
+# Coffee Haven
 
 > A premium coffee bean e-commerce platform built with Spring Boot and AI-powered recommendations
 
-## 🌟 Features
+## Features
 
 ### Customer Features
 - Browse premium coffee bean catalog
@@ -21,7 +21,7 @@
 **Note:** The Shopping Cart and My Orders functionalities for the Customer's sub-system, and image rendering for the Admin's sub-system has errors in them currently.
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 - Java 17
@@ -38,7 +38,7 @@
 - Font Awesome
 
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Java 17
@@ -74,12 +74,5 @@ mvn spring-boot:run
 ```
 
 5. Access the application at http://localhost:8080
-
-## ✨ Contributors
-Java Brewers Team (Radowan, Ahmed, Rafi, Mouaz) - Studnts of UTM KL
-
-
-
-<p align="center">Made with ❤️ by Java Brewers</p>
 
 
